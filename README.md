@@ -10,4 +10,6 @@
 
 🔅 Provide the endpoint/connection string to the WordPress application to make it work.
 
-This wordpress.txt file contains the commands used during the above process.
+This command.txt file contains the commands used during the above process.
+
+[You can checkout my Work in vedio ](https://www.linkedin.com/posts/gagandeepkumar_task18-rightmentorship-india-activity-6755439100062416896-XCoG)
